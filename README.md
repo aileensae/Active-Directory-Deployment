@@ -55,9 +55,27 @@ This tutorial outlines the implementation of on-premises Active Directory within
 
 
 
+![IMG-0207](https://github.com/aileensae/configure-ad/assets/128826611/b44f8714-195b-4bc6-a5dc-a775ec7d6b9a)
+
+![IMG-0208](https://github.com/aileensae/configure-ad/assets/128826611/a255a3a5-4ba1-4134-b125-11383b217d88)
+
+![IMG-0213](https://github.com/aileensae/configure-ad/assets/128826611/ac9e2cf6-616c-4708-aa97-ebc0bcd7471a)
+
+![IMG-0215](https://github.com/aileensae/configure-ad/assets/128826611/095909ac-000e-4f6a-82ab-181682efa418)
+
+![IMG-0216](https://github.com/aileensae/configure-ad/assets/128826611/72204f66-a202-476d-906e-b9a974713ac1)
+
+![IMG-0217](https://github.com/aileensae/configure-ad/assets/128826611/0928dbbd-b458-424d-8b10-7b73c4a2063f)
+
+![IMG-0218](https://github.com/aileensae/configure-ad/assets/128826611/4088e4ad-7c02-4d29-8940-18a2f96476e7)
+
+![IMG-0219](https://github.com/aileensae/configure-ad/assets/128826611/e7524bc6-8ea3-422f-bf51-da9d142cf53c)
+
+![IMG-0221](https://github.com/aileensae/configure-ad/assets/128826611/33c1ce78-f09b-4171-a0ed-237e0926a1a6)
+
+![IMG-0222](https://github.com/aileensae/configure-ad/assets/128826611/0cf881dc-bdc4-4192-8d38-924156ff9e68)
 
 
-
-
+![IMG-0223](https://github.com/aileensae/configure-ad/assets/128826611/87d7e0cd-25c5-4b29-8fac-e01745353555)
 
 

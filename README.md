@@ -31,26 +31,33 @@ This tutorial outlines the implementation of on-premises Active Directory within
 
 <h2>Deployment and Configuration Steps</h2>
 
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
+![image](https://github.com/aileensae/configure-ad/assets/128826611/cdcf925b-12df-412d-971f-3c9b7e770425)
 
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
+![IMG-0193](https://github.com/aileensae/configure-ad/assets/128826611/e7289851-d753-4021-bee0-1aec2c422fe0)
 
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
+![IMG-0197](https://github.com/aileensae/configure-ad/assets/128826611/415c20bb-201c-4597-a6b2-865330312054)
+
+![IMG-0198](https://github.com/aileensae/configure-ad/assets/128826611/71b5b751-a4ed-451c-a458-7824541b7b11)
+
+![IMG-0199](https://github.com/aileensae/configure-ad/assets/128826611/a8830a45-25d8-46ca-8f44-823acbe33fe3)
+
+![IMG-0200](https://github.com/aileensae/configure-ad/assets/128826611/be115efb-841e-441f-b379-5a19f4b2c3e4)
+
+![IMG-0204](https://github.com/aileensae/configure-ad/assets/128826611/c3898d8e-e342-43e9-9406-8dc401f6fa83)
+
+![IMG-0202](https://github.com/aileensae/configure-ad/assets/128826611/1e20b332-3748-458a-99f9-f489b1bf4735)
+
+![IMG-0206](https://github.com/aileensae/configure-ad/assets/128826611/9acc1e23-97ea-4b03-a6bb-6b0fc21c8806)
+
+![IMG-0201](https://github.com/aileensae/configure-ad/assets/128826611/b86dcca8-6830-4b21-8ac7-b7c8615312ff)
+
+![IMG-0205](https://github.com/aileensae/configure-ad/assets/128826611/131a0281-b0bf-4b2d-a57a-74043eac0f65)
+
+
+
+
+
+
+
+
+

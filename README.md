@@ -5,9 +5,9 @@
 <h1>This guide will help you accomplish the following:</h1>
 
 - Set up Resources in Azure
-- Ensure Cpnnoectivity between the Client and Domain Controller 
+- Ensure Connoectivity between the Client and Domain Controller 
 - Install Active Directory
-- Create and Admin and Normal User Account in AD
+- Create an Admin and Normal User Account in AD
 - Join Client to your domain (mydomain.com)
 
 
@@ -24,6 +24,8 @@
 - Windows 10 (21H2)
 
 <h2>Deployment and Configuration Steps</h2>
+
+<h2>Set up Resources in Azure</h2>
 
 ![image](https://github.com/aileensae/configure-ad/assets/128826611/cdcf925b-12df-412d-971f-3c9b7e770425)
 
@@ -49,6 +51,9 @@
 
 
 
+
+<h2>Ensure Connectivity between the client and Domain Controller<h/>
+
 ![IMG-0207](https://github.com/aileensae/configure-ad/assets/128826611/b44f8714-195b-4bc6-a5dc-a775ec7d6b9a)
 
 ![IMG-0208](https://github.com/aileensae/configure-ad/assets/128826611/a255a3a5-4ba1-4134-b125-11383b217d88)
@@ -69,17 +74,26 @@
 
 ![IMG-0222](https://github.com/aileensae/configure-ad/assets/128826611/0cf881dc-bdc4-4192-8d38-924156ff9e68)
 
-
 ![IMG-0223](https://github.com/aileensae/configure-ad/assets/128826611/87d7e0cd-25c5-4b29-8fac-e01745353555)
 
 
+
+<h2>Install Active Directory<h/>
+  
 ![Screenshot 2023-07-06 082201](https://github.com/aileensae/configure-ad/assets/128826611/6d38bc8a-7aa3-40b8-a88d-eba2e86fb69e)
 
 ![Screenshot 2023-07-06 082340-1](https://github.com/aileensae/configure-ad/assets/128826611/f7c433c6-f355-4a9e-bb18-efb8391176d2)
 
+
+
+
+ <h>Create an Admin and Normal User Account in AD<h/>
+
 ![IMG-0232](https://github.com/aileensae/configure-ad/assets/128826611/d579f9a3-9c91-4cde-9557-a174f328c440)
 
 ![IMG-0241](https://github.com/aileensae/configure-ad/assets/128826611/0c0d603e-4be8-47dd-a60b-76359788d7ad)
+
+
 
 
 ![IMG-0233](https://github.com/aileensae/configure-ad/assets/128826611/496ef0de-092d-436a-a41d-290ef767774f)
@@ -101,6 +115,11 @@
 ![IMG-0247](https://github.com/aileensae/configure-ad/assets/128826611/045411bd-621b-431d-ad81-0bb53317e154)
 
 ![IMG-0248](https://github.com/aileensae/configure-ad/assets/128826611/83998c6e-5d01-4c50-a9cd-f965ea8d7892)
+
+
+
+
+ <h>Join Client to your domain (mydomain.com)<h/>
 
 ![IMG-0250](https://github.com/aileensae/configure-ad/assets/128826611/fb7c1cc8-1c0d-4045-86de-78859fb9d9dc)
 
